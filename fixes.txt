@@ -1,0 +1,1 @@
+error: Microsoft Visual C++ 10.0 is required  => http://www.devdungeon.com/content/fix-pip-install-unable-find-vcvarsallbat
